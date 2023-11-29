@@ -1,0 +1,13 @@
+h1{
+    color: #A25772;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.navbar-brand {
+    color: #A25772;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.gallery{
+    display: block;
+}
